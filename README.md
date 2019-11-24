@@ -1,7 +1,7 @@
-# DevFest Golang Session - Agenda
 
-## session - 01
--   Introduction to Golang (30 mins)
+
+
+-   Introduction to Golang
     -   Why Go
     -   Go Installation
     -   Basic Go Understanding
@@ -18,12 +18,12 @@
     -   Simple HTTP server with handler
     -   Server Mux implementation
 
-## session - 02
+
 -   CRUD Implementation (1 hour)
     -   Rest API implementation (Phone Book Application)
     -   Database integration for the CRUD
     
-## session - 03
+
 -   Go test and benchmark (20 mins)
     -   Write unit tests for go functions
     -   Write benchmarks for go functions
@@ -37,7 +37,7 @@
 -   Profiling (15 mins)
     -   Add go pprof to the application
     
-## session - 04
+
 -   Dependency Management In Go (20 mins)
     -   go mod
     
@@ -46,6 +46,4 @@
     -   go channels
     -   sync package
 
-## Questions
 
-#Thank You !...
